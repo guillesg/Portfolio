@@ -60,7 +60,7 @@ export default function ContactPage() {
 
           {/* Instagram */}
           <a
-            href="#"
+            href="https://www.instagram.com/guillesg12/"
             className="group border border-zinc-800 rounded-xl p-6 flex flex-col items-center text-center gap-4 transition-all duration-300 hover:border-zinc-700 hover:-translate-y-1"
           >
             <SiInstagram
@@ -74,7 +74,7 @@ export default function ContactPage() {
 
           {/* LinkedIn */}
           <a
-            href="#"
+            href="https://www.linkedin.com/in/guillermo-sosa-gil-576195121/"
             className="group border border-zinc-800 rounded-xl p-6 flex flex-col items-center text-center gap-4 transition-all duration-300 hover:border-zinc-700 hover:-translate-y-1"
           >
             <SiLinkedin

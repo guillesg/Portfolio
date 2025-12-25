@@ -18,7 +18,7 @@ export const projects: Project[] = [
     description: "Web Ópticos Domínguez Romero.",
     type: "real",
     video: "/videos/video-optica.mp4",
-    url: "https://www.clinicadentalruiz.com", // cambia por la real
+    url: "#", // cambia por la real
   },
   {
     id: "cliente-2",
@@ -26,7 +26,7 @@ export const projects: Project[] = [
     description: "Web para Ondina Surf & skate Shop.",
     type: "real",
     video: "/videos/video-ondina.mp4",
-    url: "https://www.aurumdetailing.com", // cambia por la real
+    url: "#", // cambia por la real
   },
 
   {
