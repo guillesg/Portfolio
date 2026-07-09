@@ -33,7 +33,7 @@ export const projects: Project[] = [
     title: "Lamai Thai",
     description: "Web Lamai Thai Massage.",
     type: "real",
-    video: "/videos/video-lamaimp4",
+    video: "/videos/video-lamai.mp4",
     url: "http://lamaigaldarthaimassage.com/", // cambia por la real
   },
   {
