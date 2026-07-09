@@ -28,6 +28,22 @@ export const projects: Project[] = [
     video: "/videos/video-ondina.mp4",
     url: "http://ondina-surf.com/", // cambia por la real
   },
+  {
+    id: "cliente-3",
+    title: "Lamai Thai",
+    description: "Web Lamai Thai Massage.",
+    type: "real",
+    video: "/videos/video-lamaimp4",
+    url: "http://lamaigaldarthaimassage.com/", // cambia por la real
+  },
+  {
+    id: "cliente-4",
+    title: "AY-BRA",
+    description: "Web AY-BRA Real State.",
+    type: "real",
+    video: "/videos/video-aybra.mp4",
+    url: "http://ay-bra.vercel.app/", // cambia por la real
+  },
 
   {
     id: "demo1",
